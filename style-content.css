@@ -1,0 +1,29 @@
+
+
+
+ul {
+    margin: 10%;
+    background-color: yellow;
+    border: 2px solid gray;
+}
+
+ul li {
+    margin: 10px;
+}
+
+ol li {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#para {
+    display: flex;
+
+    margin: 10px;
+    align-content: center;
+    justify-content: space-around;
+}
+
+#para p {
+    padding: 1%;
+}
